@@ -1,4 +1,4 @@
-# VideoDownloader
+# Cobalt Raven VideoDownloader
 GUI based python video downloader
 
 Advanced Video Downloader
